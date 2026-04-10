@@ -1,0 +1,4 @@
+Tests: uipath-email-parser INT
+TC-001: PASS
+TC-002: PASS
+Coverage: 78%
