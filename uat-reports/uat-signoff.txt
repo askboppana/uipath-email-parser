@@ -1,0 +1,2 @@
+UAT: uipath-email-parser STAGE
+Status: PENDING APPROVAL
